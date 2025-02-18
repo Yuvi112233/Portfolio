@@ -907,7 +907,8 @@
     "yaml": "^1.10.2",
     "yargs": "^16.2.0",
     "yargs-parser": "^20.2.9",
-    "yocto-queue": "^0.1.0"
+    "yocto-queue": "^0.1.0",
+     "@tabler/icons-react": "^2.47.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.18.6"

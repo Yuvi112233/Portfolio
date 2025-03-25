@@ -27,6 +27,15 @@ const ProjectInfo = [
         
     },
     {
+        title: "Smartwebsolutions ",
+        desc: "Smartwebsolutions is a modern, fully responsive website built using React and TailwindCSS for a social media marketing agency. Designed to showcase services effectively, it features a sleek and engaging UI with smooth animations and transitions. The website includes sections for agency services, client testimonials, portfolio, and contact information, ensuring a user-friendly experience. It is optimized for performance, responsiveness, and SEO, making it accessible across all devices. SkyHighTechnologies serves as a professional online presence for the agency, helping attract potential clients with its clean design and seamless navigation.",
+        image: "new.png",
+        live: true,
+        technologies: ["React", "Springboot", "MongoDB", "Tailwind", "Tabler-Icons", "Firebase"],
+        link: "https://customer-wzop.onrender.com/",
+        
+    },
+    {
         title: "Portfolio-Website",
         desc: "The Portfolio Website is a modern, fully responsive web application built with **React, TypeScript, and Tailwind CSS**, designed to showcase **skills, projects, and experiences** in a visually appealing and interactive manner. It features smooth **Framer Motion animations**, a structured **project showcase with live previews**, an **integrated contact form with validation**, and **dark/light mode support** for a seamless user experience. Optimized for **performance, SEO, and mobile responsiveness**, this portfolio serves as a **digital resume**, enhancing personal branding and making a strong impression on potential employers and clients. 🚀The **Portfolio Website** is a modern, fully responsive web application built with **React, TypeScript, and Tailwind CSS**, designed to showcase **skills, projects, and experiences** in a visually appealing and interactive manner. It features smooth **Framer Motion animations**, a structured **project showcase with live previews**, an **integrated contact form with validation**, and **dark/light mode support** for a seamless user experience. Optimized for **performance, SEO, and mobile responsiveness**, this portfolio serves as a **digital resume**, enhancing personal branding and making a strong impression on potential employers and clients. 🚀",
         image: "Spotify.png",
